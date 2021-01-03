@@ -1,2 +1,6 @@
 Change 1 -> Change made by idea branch
+<<<<<<< HEAD
 Change 2 -> Change made by master branch
+=======
+Change 2
+>>>>>>> idea
