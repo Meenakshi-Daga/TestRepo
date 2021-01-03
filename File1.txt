@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Change 1 -> Change made by idea branch
-=======
 Change 1 -> Change Made By Idea Branch
->>>>>>> File1 changed : Made each first letter of word in sentence of change 1 by idea branch
 
 Change 2 -> Change Made By Master Branch
+
+Change 3 -> File1 updated to test simple push to remote master
